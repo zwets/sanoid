@@ -1,3 +1,10 @@
+sanoid (2.1.0-0kcri1) unstable; urgency=medium
+
+  * Upstream 2.1.0 with --exclude-snaps (PR 632) added
+    (https://github.com/zwets/sanoid)
+
+ -- Marco van Zwetselaar <io@zwets.it>  Wed, 17 Nov 2021 23:22:28 +0300
+
 sanoid (2.1.0) unstable; urgency=medium
 
   [overall]   documentation updates, small fixes (@HavardLine, @croadfeldt, @jimsalterjrs, @jim-perkins, @kr4z33, @phreaker0)

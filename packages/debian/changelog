@@ -1,3 +1,9 @@
+sanoid (2.1.0-0kcri2) unstable; urgency=medium
+
+  * Make @syncoid exclusion optional in --exclude-snaps (commit fa7aca6)
+
+ -- Marco van Zwetselaar <zwets@zwets.com>  Thu, 18 Nov 2021 00:50:59 +0300
+
 sanoid (2.1.0-0kcri1) unstable; urgency=medium
 
   * Upstream 2.1.0 with --exclude-snaps (PR 632) added
